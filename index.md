@@ -1,6 +1,6 @@
-ICS 491 (002) is a special topics course that will focus on the [Hawaii Annual Code Challenge (HACC)](http://hacc.hawaii.gov/). Professor Philip Johnson is running this course. For this course, you will participate in the HACC hackathon during August and September, then refine your application for the remainder of the semester.
+ICS 491(002) is a special topics course that will focus on the [Hawaii Annual Code Challenge (HACC)](http://hacc.hawaii.gov/). Professor Philip Johnson is running this course. For this course, you will participate in the HACC hackathon during August and September, then refine your application for the remainder of the semester.
 
-To be qualified to take this course, you should have software design and implementation skills appropriate for HACC.  That typically means you have completed ICS 314 or have equivalent web application development experience.  If you are not sure whether you have the background appropriate to succeed in HACC, please send me an email. 
+To be qualified to take this course, you should have software design and implementation skills appropriate for HACC.  That typically means you have completed ICS 314 or have equivalent web application development experience.  If you are not sure whether you have the background appropriate to succeed in ICS 491(002), please send me an email. 
 
 The course will work like this:
 
