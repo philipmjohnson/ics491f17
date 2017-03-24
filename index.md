@@ -20,5 +20,7 @@ The course will work like this:
 
 There are no fixed meeting times for this course.   If you are working with a team in which you are the only ICS 491 member, and the team breaks up at the end of HACC, then you can continue to work on the project by yourself for the remainder of the semester. 
 
+If it makes more sense for you to take this class as ICS 499 independent study, that can be arranged. Discuss this with Gerald first.
+
 
  
