@@ -14,9 +14,9 @@ The course will work like this:
 
 5. Spend the first month of the semester working hard on HACC. Try to win! 
 
-6. Regardless of whether you won or not, starting in October, you will continue to work on your HACC submission to make it even better. We will have a review at the end of October and at the end of November. 
+6. Regardless of whether you win or not, starting in October, you will continue to work on your HACC submission to make it even better. We will have a review at the end of October and at the end of November. 
 
-7. Your final grade for the course will be based upon the system you developed for HACC and how much refinement you were able to make during the remainder of the semester.
+7. Your final grade for the course will be based upon the system you developed for HACC and how much refinement you were able to make during the remainder of the semester. You don't have to win to get an A in the course.
 
 There are no fixed meeting times for this course.   If you are working with a team in which you are the only ICS 491 member, and the team breaks up at the end of HACC, then you can continue to work on the project by yourself for the remainder of the semester. 
 
