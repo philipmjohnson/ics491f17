@@ -6,7 +6,9 @@ The course will work like this:
 
 1. Register for ICS 491(002) for Fall 2017.  If you need an override, you can request one from Gerald Lau or Philip Johnson.
 
-2. Monitor the Hawaii Annual Code Challenge site. The date of the kickoff meeting for Fall 2017 is Saturday, August 26, at the East-West Center, Keoni Auditorium. 
+2. Join the ICS 491 Slack Team. Email me (johnson@hawaii.edu) for an invite to the Slack Team.
+
+2. [Register for HACC.](http://hacc2017.eventbrite.com/) The date of the kickoff meeting for Fall 2017 is Saturday, August 26, at the East-West Center, Keoni Auditorium. 
 
 3. Attend the HACC kick-off meeting on August 26.  I will be taking attendance!
 
